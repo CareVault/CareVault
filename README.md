@@ -25,6 +25,7 @@ Welcome to CareVault, your premier HealthCare Application. Seamlessly book docto
 
 **Screenshots -** 
 
+![Screenshot-2024-06-01-11-01-17-9 (3)](https://github.com/CareVault/CareVault/assets/117476059/0d6fdc77-7278-4f59-9b20-f1dd6cfbf348)
 
 ![image](https://github.com/Samb30/Carevault-HealthCare-App/assets/117346153/4802ba08-ed20-4abf-afe8-b5295414a5a5)
 
